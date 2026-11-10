@@ -1,0 +1,4 @@
+interface:
+  display_name: "授权与人工复核协作"
+  short_description: "区分执行授权和事实审核，直接交付可审核成果，集中疑点并保留确认"
+  default_prompt: "使用 $human-review-collaboration 整理本轮成果与真实疑点，按已授权范围推进，只请求必要的人工判断。"

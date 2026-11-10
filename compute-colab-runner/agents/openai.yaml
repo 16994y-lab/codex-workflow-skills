@@ -1,0 +1,4 @@
+interface:
+  display_name: "算力与 Colab 执行"
+  short_description: "先检查本机资源，再评估云方案，复用运行环境并保留实验和结果证据"
+  default_prompt: "使用 $compute-colab-runner 评估本轮任务的算力并按已授权范围执行，最后交付结果与证据。"

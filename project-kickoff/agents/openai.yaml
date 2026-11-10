@@ -1,0 +1,4 @@
+interface:
+  display_name: "新项目启动与交接"
+  short_description: "梳理首版目标和验收边界，复用已有工程，控制范围并减少重复开发"
+  default_prompt: "使用 $project-kickoff 读取已有资料，明确本项目的最小交付闭环、验收与执行范围。"
